@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          THE MUSE
+          Muse Filez
         </a>
       </header>
       <h1>
