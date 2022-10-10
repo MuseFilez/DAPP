@@ -19,10 +19,10 @@ function App() {
         </a>
       </header>
       <h1>
-        <p>See exclusive content from your favorite content creators.</p>
+        <p>See exclusive content from your favorite content creators!</p>
       </h1>
       <h1>
-        <p>Here are our TOP Content Creators!</p>
+        <p>Meet the Muse Filez team!</p>
       </h1>
         <div class="team-info">
             <img src="img-1.jpg" alt="" width="500" height="500"/>
