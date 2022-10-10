@@ -1,4 +1,4 @@
-Muse Filez are decentralized Social Media Platform:
+MUSE FILEZ are decentralized Social Media Platform:
 
 React App
 
