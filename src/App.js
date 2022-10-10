@@ -31,13 +31,13 @@ function App() {
         </div>
         <div class="team-info">
             <img src="img-2.jpg" alt="" width="500" height="500"/>
-            <h4>Sarah Junyna</h4>
-             <p>Singer/Songwriter</p>
+            <h4>Lamont Veal</h4>
+             <p>Co-Founder/Lead Developer</p>
         </div>
         <div class="team-info">
             <img src="img-3.jpg" alt="" width="500" height="500"/>
-            <h4>Rob Hope</h4>
-             <p>Guitarist</p>
+            <h4>Rahsaan Moore</h4>
+             <p>Community/Project Manager</p>
         </div>
     </div>
   );
